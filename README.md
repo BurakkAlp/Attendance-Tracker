@@ -1,5 +1,5 @@
-# Attendance-Tracker<br><br>
-Yoklama takip uygulaması <br><br> 
+# Attendance-Tracker<br>
+Yoklama takip uygulaması <br>
 Çalıştırmak için: <br>
 1- Python 3.12 kurulu olmalı <br>
 2- Openpyxl 3.1.2 olmalı <br>
