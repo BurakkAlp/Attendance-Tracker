@@ -1,5 +1,5 @@
 # Attendance-Tracker<br>
-Yoklama takip uygulaması: <br>Öğrecilerin isim soyisim ve numaralarını içeren excel dosyasından verileri çekip gösteren ve öğretmenin istediği öğrecileri derse katıldı olarak gösterebileceği daha sonrasında derse katılan öğrencilerin isim soyisim ve numaralarını excel, csv veya txt dosyası olarak dışa aktarabileceği faydalı bir program. <br>
+Yoklama takip uygulaması: <br>Öğrecilerin isim soyisim ve numaralarını içeren excel dosyasından verileri çekip gösteren ve öğretmenin istediği öğrecileri derse katıldı olarak gösterebileceği daha sonrasında derse katılan öğrencilerin isim soyisim ve numaralarını excel, csv veya txt dosyası olarak dışa aktarabileceği faydalı bir program. <br> <br>
 Çalıştırmak için: <br>
 1- Python 3.12 kurulu olmalı <br>
 2- Openpyxl 3.1.2 olmalı <br>
@@ -11,5 +11,5 @@ Yoklama takip uygulaması: <br>Öğrecilerin isim soyisim ve numaralarını içe
 
 Not:Main dosyası ve öğrencilerin bulunduğu excel dosyası aynı directory'de olmadan da çalışabilir <br>
 
-Program kullanımı açıklama: <br>
+Programın kullanımının videolu gösterimi: <br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7NYkBknHlfI/0.jpg)](https://www.youtube.com/watch?v=7NYkBknHlfI)
